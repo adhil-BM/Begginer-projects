@@ -1,0 +1,232 @@
+
+
+
+body {
+    background-color: white;
+    text-align: center;
+}
+
+
+/* General */
+
+.btn-shape {
+    border-radius: 30px;
+}
+
+
+/* Title section */
+
+/*  navbar */
+ 
+.navbar {
+    background-color: #ffff;
+    padding: 2%;
+}
+
+.nav-text {
+    font-family:  "Source Sans 3";
+    font-weight: 700;
+}
+
+.navbar-brand {
+    margin-right: 40px;
+}
+
+/* banner */
+
+.banner{
+    background-color: #32462f;
+    text-align: center;
+    padding: 3%;
+    margin-bottom: 30px;
+}
+
+.banner-text{
+    color: #ffff;
+    display: inline;
+    position: relative;
+    top: 5px;
+}
+
+.trnsprt-btn {
+    border-radius: 20px;
+    margin: 0 10px;
+}
+
+
+/* Promo section */
+
+.promo-img{
+    width: 100%;
+}
+
+.promo-img-col {
+    padding: 0%;
+}
+
+.promo-txt-col {
+    margin: auto;
+    padding: 0%;
+}
+
+.promo-txt-hd {
+    margin-bottom: 1.5rem;
+}
+
+.promo1-section, .promo2-section, .promo3-section, .promo4-section, .promo5-section {
+    margin: auto;
+    padding: 15%;
+}
+
+.promo1-section,.promo4-section, .promo5-section {
+    color: #ffff;
+}
+
+.promo-2-disc,.promo-3-disc, .promo-4-disc {
+    font-size: 1.2rem;
+}
+
+/* Promo 1*/
+
+.promo-1 {
+    background-color: #5f4633;
+    margin-bottom: 30px;
+}
+
+.promo-1-hd, .promo-5-hd {
+    font-size: 3rem;
+    padding: 0% 10%;
+}
+
+.promo-1-disc,.promo-5-disc {
+    font-size: 1.5rem;
+    padding: 0% 10%;
+}
+
+/* Promo 2*/
+
+.promo-2,.promo-3 {
+    background-color: #f8f0e5;
+    margin-bottom: 30px;
+}
+.promo2-section{
+    color: #5f4633; 
+ }
+
+
+/* Promo 3*/
+
+.promo3-section{
+    color: #006242; 
+ }
+
+/* Promo 4*/
+
+.promo-4 {
+    background-color: #61381c;
+    margin-bottom: 30px;
+    
+}
+
+
+.promo4-section {
+    background-color: #61381c;
+    font-family: "Arial","Sodo sans","Bold";
+    padding-bottom: 13%;
+}
+
+/* Prono 5 */
+
+.promo-5 {
+    background-color: #32462f;
+    margin-bottom: 30px;
+}
+.promo5-section {
+    background-color: #32462f;
+    font-family: "Arial","Sodo sans","Bold";
+}
+
+
+
+/* Disclaimer sectio */
+
+.disclaimer-1,.disclaimer-2 {
+    font-family: "Arial","Sodo sans";
+    font-size: 14px;
+    padding: 0 25%;
+    margin: 5% 0%;
+}
+
+.disclaimer-2-txt {
+    margin-top: 0%;
+}
+
+
+
+/* Footer */
+
+.faq-section {
+    font-family: "Ubuntu","static";
+    text-align: left;
+    margin-left: 2%;
+    margin-top: 20px;
+}
+
+.info-list {
+    margin-left: 1%;
+}
+
+.info-list-itm {
+    color: grey;
+}
+
+.info-list-itm:hover {
+    color: black;
+}
+
+.info-list-hd {
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+
+.social-media{
+    font-size: 1.7rem;
+    margin: 30px 30px 0% 2%;
+    text-align: left;
+}
+.social-media-icons {
+    color: black;
+    margin-left: 1%;
+    transition: box-shadow 0.3s ease;
+}
+
+.social-media-icons:hover {
+    box-shadow: 0 4px 8px black;
+    border-radius: 85%;
+}
+
+.conditions {
+    margin-top: 30px;
+    margin-left: 3%;
+    text-align: left;
+}
+
+.list-itm{
+    color: black;
+    font-size: 1.2rem;
+    line-height: 2.5rem ;
+    text-decoration: none;
+}
+
+.list-itm:hover{
+    text-decoration: underline;
+}
+
+/* copyright Declaration */
+
+.copyright-decl {
+    text-align: left;
+    margin: 3%;
+}
+
+/* media query */
