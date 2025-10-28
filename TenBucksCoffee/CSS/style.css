@@ -230,3 +230,51 @@ body {
 }
 
 /* media query */
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+    .banner-text {
+        margin: 5%;
+        font-size: 1rem;
+    }
+
+    .banner-btn {
+        margin: 5%;
+        font-size: 0.75rem;
+    }
+
+    .promo-1-hd, .promo-5-hd {
+        font-size: 2rem;
+        padding: 0% 10%;
+    }
+
+    .promo-1-disc,.promo-5-disc {
+        font-size: 1rem;
+        padding: 0% 5%;
+    }
+
+    .promo-2-disc,.promo-3-disc, .promo-4-disc {
+       font-size: 1rem;
+    }
+
+    .info-list-hd {
+        font-size: 1.2rem;
+    }
+
+    .info-list-itm {
+        font-size: 0.85rem;
+    }
+
+    .list-itm {
+        font-size: 1rem;
+    }
+
+    .copyright-decl {
+        font-size: smaller;
+    }
+
+
+}
+
